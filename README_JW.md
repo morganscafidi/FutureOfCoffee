@@ -10,4 +10,10 @@ https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels
 
 
 
-elevtion model, cliamte data, current coffee map, 
+elevtion model, cliamte data, current coffee distribution map, 
+
+Methodology - Plot climate analysis maps similar to lab4.  Combine muliple layers of climate analysis to produce where conditions will increase suitability and decrease suitability. 
+
+Expected Outcomes - Most areas currently suitable for coffee growing will decrease suitability. Small areas of higher elevation and higher latitude with ideal temperature, sunshine, and rainfall conditions will increase in suitability. 
+
+
