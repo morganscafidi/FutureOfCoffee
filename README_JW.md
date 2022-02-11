@@ -25,4 +25,5 @@ Methodology - Plot climate analysis maps similar to lab4.  Combine muliple layer
 
 Expected Outcomes - Most areas currently suitable for coffee growing will decrease suitability. Small areas of higher elevation and higher latitude with ideal temperature, sunshine, and rainfall conditions will increase in suitability. 
 
+Things to consider: make sure that measurements are in metric system units.
 
