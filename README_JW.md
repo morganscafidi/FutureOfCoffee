@@ -3,7 +3,8 @@
 
 Climate change will greatly alter growing conditions for the world's favorite drug: coffee. Changing weather patterns, temperature, natural disasters and more will devastate current growing zones and shift where our beloved stimulant will come from. This project seeks to map the effects of the shifting climate on the distribution of coffee around the world using satellite climate data. For scale, we will be looking at Colombia, Mexico, and the Carribean.
 
-What regions will emerge as superior coffee growing zones as climatic conditions change? 
+What regions will emerge as superior coffee growing zones as climatic conditions change?
+Since coffee needs a very particular formula to grow successfully, how will changing climate affect the quality of coffee in the future?
 
 Datasets - https://search.earthdata.nasa.gov/search?m=6.71484375!-106.3125!3!1!0!0%2C2
 https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=form
