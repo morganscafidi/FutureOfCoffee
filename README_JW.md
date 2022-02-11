@@ -10,7 +10,7 @@ https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels
 
 
 
-elevtion model, cliamte data, current coffee distribution map, 
+elevtion model, climate data such as rainfall, temperature, current coffee distribution map, 
 
 Data Findings so far: 
 https://www.climate.gov/news-features/climate-and/climate-coffee
