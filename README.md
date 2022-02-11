@@ -20,6 +20,7 @@ https://www.climate.gov/news-features/climate-and/climate-coffee
 - optimal temperature range is 64°–70°F (18°C–21°C). It can tolerate mean annual temperatures up to roughly 73°F (24°C).
 - over 86°F (30°C) can severely damage coffee plants, stunting growth, yellowing leaves, even spawning stem tumors
 - coffee needs an annual rainfall of 1500 to 3000 mm
+- Depending on the variety, it will take approximately 3 to 4 years for the newly planted coffee trees to bear fruit.
 
 ***Methodology -*** Plot climate analysis maps similar to lab4.  Combine muliple layers of climate analysis to produce where conditions will increase suitability and decrease suitability. After successfully completing the suitability analysis, we can grab statistics on which areas have a higher average of suitable land for optimal coffee growing.
 
