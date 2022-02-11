@@ -11,6 +11,10 @@ https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels
 
 
 elevtion model, cliamte data, current coffee distribution map, 
+Data Findings so far: 
+https://www.climate.gov/news-features/climate-and/climate-coffee
+- optimal temperature range is 64°–70°F (18°C–21°C). It can tolerate mean annual temperatures up to roughly 73°F (24°C).
+- over 86°F (30°C) can severely damage coffee plants, stunting growth, yellowing leaves, even spawning stem tumors
 
 Methodology - Plot climate analysis maps similar to lab4.  Combine muliple layers of climate analysis to produce where conditions will increase suitability and decrease suitability. 
 
