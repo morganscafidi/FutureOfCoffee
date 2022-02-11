@@ -18,7 +18,7 @@ https://www.climate.gov/news-features/climate-and/climate-coffee
 - over 86°F (30°C) can severely damage coffee plants, stunting growth, yellowing leaves, even spawning stem tumors
 - coffee needs an annual rainfall of 1500 to 3000 mm
 
-Methodology - Plot climate analysis maps similar to lab4.  Combine muliple layers of climate analysis to produce where conditions will increase suitability and decrease suitability. 
+Methodology - Plot climate analysis maps similar to lab4.  Combine muliple layers of climate analysis to produce where conditions will increase suitability and decrease suitability. After successfully completing the suitability analysis, we can grab statistics on which areas have a higher average of suitable land for optimal coffee growing.
 
 Expected Outcomes - Most areas currently suitable for coffee growing will decrease suitability. Small areas of higher elevation and higher latitude with ideal temperature, sunshine, and rainfall conditions will increase in suitability. 
 
